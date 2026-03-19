@@ -1,0 +1,1446 @@
+customer_id,name,city,state
+1,DebraBurks,Orchard Park,NY
+2,KashaTodd,Campbell,CA
+3,TamekaFisher,Redondo Beach,CA
+4,DarylSpence,Uniondale,NY
+5,CharoletteRice,Sacramento,CA
+6,LyndseyBean,Fairport,NY
+7,LatashaHays,Buffalo,NY
+8,JacqulineDuncan,Jackson Heights,NY
+9,GenovevaBaldwin,Port Washington,NY
+10,PameliaNewman,Monroe,NY
+11,DeshawnMendoza,Monsey,NY
+12,RobbySykes,Hempstead,NY
+13,LashawnOrtiz,Longview,TX
+14,GarryEspinoza,Forney,TX
+15,LinnieBranch,Plattsburgh,NY
+16,EmmittSanchez,New York,NY
+17,CarenStephens,Scarsdale,NY
+18,GeorgettaHardin,Canandaigua,NY
+19,LizzetteStein,Orchard Park,NY
+20,AletaShepard,Sugar Land,TX
+21,TobieLittle,Victoria,TX
+22,AdelleLarsen,East Northport,NY
+23,KayleeEnglish,Hollis,NY
+24,CoreneWall,Atwater,CA
+25,RegeniaVaughan,Mahopac,NY
+26,TheoReese,Long Beach,NY
+27,SantosValencia,Sunnyside,NY
+28,JeaniceFrost,Ossining,NY
+29,SyreetaHendricks,Mahopac,NY
+30,JamaalAlbert,Torrance,CA
+31,WilliemaeHolloway,Oakland,CA
+32,AraceliGolden,Fullerton,CA
+33,DelorisBurke,Palos Verdes Peninsula,CA
+34,BrittneyWoodward,East Northport,NY
+35,GuillerminaNoble,Baldwinsville,NY
+36,BernitaMcdaniel,Liverpool,NY
+37,MeliaBrady,Maspeth,NY
+38,ZelmaBrowning,Astoria,NY
+39,JanettaAguirre,Lancaster,NY
+40,RonnaButler,Encino,CA
+41,KathieFreeman,Queensbury,NY
+42,TangelaQuinn,Richmond Hill,NY
+43,MozelleCarter,Houston,TX
+44,OnitaJohns,Elmont,NY
+45,BennettArmstrong,Bethpage,NY
+46,MonikaBerg,Encino,CA
+47,BridgetteGuerra,San Lorenzo,CA
+48,CesarJackson,Liverpool,NY
+49,CarollHays,Fairport,NY
+50,CleotildeBooth,Sugar Land,TX
+51,GertrudRhodes,Merrick,NY
+52,TuRamirez,East Elmhurst,NY
+53,SaturninaGarner,Glendora,CA
+54,FranYang,Utica,NY
+55,DianaGuerra,Merrick,NY
+56,LolitaMosley,Houston,TX
+57,PamalaHenry,Bronx,NY
+58,DamienDorsey,Central Islip,NY
+59,LatashaStanley,Rockville Centre,NY
+60,NeilMccall,San Carlos,CA
+61,ElinoreAguilar,San Angelo,TX
+62,AlicaHunter,East Elmhurst,NY
+63,TenishaLyons,Amityville,NY
+64,BobbieFoster,Desoto,TX
+65,KaneshaVega,Rome,NY
+66,LorrieBecker,Garland,TX
+67,TommieMelton,Sacramento,CA
+68,JayneKirkland,Rowlett,TX
+69,KatelinKennedy,Rocklin,CA
+70,TomasaCarson,East Elmhurst,NY
+71,TakakoCasey,Bronx,NY
+72,PetronilaNorris,South El Monte,CA
+73,MelanieHayes,Liverpool,NY
+74,GeorgeannWaller,North Tonawanda,NY
+75,AbbyGamble,Amityville,NY
+76,ParkerPrince,Port Jefferson Station,NY
+77,KeriBridges,Richardson,TX
+78,ChiGoff,Palos Verdes Peninsula,CA
+79,AshantiParks,Baldwin,NY
+80,SaraiMckee,Buffalo,NY
+81,ZinaBonner,San Lorenzo,CA
+82,LizzieJoyner,Coachella,CA
+83,TieshaDaniel,Scarsdale,NY
+84,ArmandWhitehead,Lindenhurst,NY
+85,TeofilaFischer,Huntington Station,NY
+86,LissaVargas,Oswego,NY
+87,YanMcgowan,Duarte,CA
+88,TitusBullock,Hollis,NY
+89,ArvillaOsborn,Upland,CA
+90,MarjorieLogan,Franklin Square,NY
+91,MarvinMullins,San Diego,CA
+92,TenaCruz,Farmingdale,NY
+93,CorrinaSawyer,Troy,NY
+94,SharynHopkins,Baldwinsville,NY
+95,LetitiaFranco,Saratoga Springs,NY
+96,FlorettaHiggins,Bayside,NY
+97,LouanneMartin,Yuba City,CA
+98,VioletValenzuela,Plattsburgh,NY
+99,CarieKidd,Monroe,NY
+100,KellieFranco,Commack,NY
+101,NichelleHowell,Scarsdale,NY
+102,MarisolGoodman,Canandaigua,NY
+103,SylvieWilkerson,Syosset,NY
+104,KatharinaBates,Campbell,CA
+105,MargetHodge,Woodhaven,NY
+106,RaulMelendez,Elmhurst,NY
+107,CecilHopper,Central Islip,NY
+108,ShaeHickman,Floral Park,NY
+109,MonicaSears,San Jose,CA
+110,OllieZimmerman,Anaheim,CA
+111,ShilaWhite,Orchard Park,NY
+112,YukVega,West Hempstead,NY
+113,ElianaSilva,Farmingdale,NY
+114,ThaliaHorne,Amityville,NY
+115,ReyLindsay,Monroe,NY
+116,MerleneVinson,Euless,TX
+117,DaciaWilliam,Sugar Land,TX
+118,LeWood,Pittsford,NY
+119,ThaliaDillard,San Angelo,TX
+120,LuzHouse,Fresno,CA
+121,LucyWoods,Palos Verdes Peninsula,CA
+122,ShenaCarter,Howard Beach,NY
+123,RobenaHill,Corpus Christi,TX
+124,JeniBooker,South El Monte,CA
+125,HerlindaStone,Canandaigua,NY
+126,LavinaDejesus,Newburgh,NY
+127,ErlindaNielsen,Maspeth,NY
+128,TerranceLynn,Plattsburgh,NY
+129,WaltonDejesus,Lockport,NY
+130,WesStanton,Troy,NY
+131,TaneshaHampton,Syosset,NY
+132,BoydIrwin,Hamburg,NY
+133,DelbertWilkins,Coram,NY
+134,BriannaMoss,Hempstead,NY
+135,DortheyJackson,Houston,TX
+136,SaritaParks,Forney,TX
+137,ShontaMercer,Massapequa,NY
+138,JoneBernard,Anaheim,CA
+139,WanitaDavenport,Spring Valley,NY
+140,CleopatraTate,East Elmhurst,NY
+141,RamiroByers,Saint Albans,NY
+142,NicholasVazquez,West Hempstead,NY
+143,JanaeDoyle,Jackson Heights,NY
+144,HansPrice,Port Chester,NY
+145,MiquelNeal,Staten Island,NY
+146,StefanyPotter,Saratoga Springs,NY
+147,BernettaMarquez,Smithtown,NY
+148,JuleeWoodard,Richmond Hill,NY
+149,MeredithBryan,Spring Valley,NY
+150,WeldonMichael,Huntington,NY
+151,JoesphDelacruz,Atwater,CA
+152,KatherinaOdom,Plainview,NY
+153,LaraineRobbins,San Angelo,TX
+154,JenisePreston,Helotes,TX
+155,LoryPage,Bay Shore,NY
+156,CharlynCantrell,West Islip,NY
+157,CarolaRodriquez,Banning,CA
+158,AlaneKennedy,Spring Valley,NY
+159,ReginaBurns,Garland,TX
+160,OmerEstrada,Rowlett,TX
+161,CrystleGilliam,Smithtown,NY
+162,KamWilder,Newburgh,NY
+163,MargertStevens,Rome,NY
+164,TomikaLarson,Woodside,NY
+165,JeromyBurch,San Jose,CA
+166,LenaMills,Woodhaven,NY
+167,LoretaJohnston,Spring Valley,NY
+168,NettieMcdaniel,South Ozone Park,NY
+169,KarlaKirk,Palos Verdes Peninsula,CA
+170,RegineGonzales,Oxnard,CA
+171,MiriamBaker,Uniondale,NY
+172,JeanieKirkland,Santa Clara,CA
+173,MarqueriteDawson,Garland,TX
+174,BabaraOchoa,Scarsdale,NY
+175,NovaHess,Duarte,CA
+176,CarleyReynolds,South El Monte,CA
+177,CarissaForeman,Maspeth,NY
+178,GenovevaTyler,New York,NY
+179,DeaneSears,Pittsford,NY
+180,KareySteele,Farmingdale,NY
+181,OleviaPitts,Redondo Beach,CA
+182,JennifferBullock,Bay Shore,NY
+183,JenifferRatliff,Floral Park,NY
+184,KlaraStanley,Webster,NY
+185,MortonLee,San Angelo,TX
+186,KenCharles,Monsey,NY
+187,HedwigPaul,Apple Valley,CA
+188,SharlaFlynn,Oxnard,CA
+189,DamianDawson,Liverpool,NY
+190,ToyaPratt,Long Beach,NY
+191,GracielaBarber,Oxnard,CA
+192,BongHebert,Torrance,CA
+193,AyannaRhodes,Hicksville,NY
+194,DorineRoberson,Santa Cruz,CA
+195,AddieHahn,Franklin Square,NY
+196,EdytheValencia,North Tonawanda,NY
+197,AndyO'neill,Rego Park,NY
+198,LuisTyler,Amarillo,TX
+199,CleliaWorkman,New Windsor,NY
+200,AshelyHolmes,Farmingdale,NY
+201,CandisHarding,Ballston Spa,NY
+202,MarniBolton,Lancaster,NY
+203,MinervaDecker,Houston,TX
+204,AlphaKing,Rockville Centre,NY
+205,HarrisPittman,Jamaica,NY
+206,StephaineRiddle,Brooklyn,NY
+207,MichelBlankenship,Forney,TX
+208,DenisLogan,Ridgecrest,CA
+209,JuttaEverett,Selden,NY
+210,PriscillaWilkins,Albany,NY
+211,GilmaDejesus,Scarsdale,NY
+212,BufordBridges,Troy,NY
+213,ElenoreHensley,Hamburg,NY
+214,RossPugh,North Tonawanda,NY
+215,JudithFinley,Whitestone,NY
+216,WaiSoto,Bethpage,NY
+217,CarlineCollier,Fresno,CA
+218,CaseyGill,Port Washington,NY
+219,DarcieMorgan,Oceanside,NY
+220,LucioSherman,Smithtown,NY
+221,ClementineMooney,Mcallen,TX
+222,AnyaContreras,East Northport,NY
+223,ScarletYates,Patchogue,NY
+224,MosesPope,Lawndale,CA
+225,BarberaRiggs,Plainview,NY
+226,KianaRivera,Richmond Hill,NY
+227,DanielleBond,Patchogue,NY
+228,WhitneyEstes,Brentwood,NY
+229,MollyLangley,Holbrook,NY
+230,ChelseyHardin,Deer Park,NY
+231,JeneeRasmussen,Sacramento,CA
+232,FreddieMathis,Euless,TX
+233,MarianaStrong,Santa Clara,CA
+234,WinfredHarris,East Meadow,NY
+235,JeromyElliott,Bay Shore,NY
+236,VeronaO'neill,Selden,NY
+237,ElveraPeck,Banning,CA
+238,CindiLarson,Howard Beach,NY
+239,FeliceGuzman,Canyon Country,CA
+240,LeDeleon,Banning,CA
+241,ManieSanchez,Queensbury,NY
+242,RuthaHowell,Canyon Country,CA
+243,NatoshaRowland,Ballston Spa,NY
+244,JessikaBray,San Pablo,CA
+245,DelilaHamilton,Palos Verdes Peninsula,CA
+246,DionneNorris,Niagara Falls,NY
+247,MurielJuarez,Palos Verdes Peninsula,CA
+248,CeceliaGill,Mcallen,TX
+249,MagdaEaton,Ossining,NY
+250,IvonneYang,El Paso,TX
+251,KasieRodriquez,Ballston Spa,NY
+252,EleniGordon,Richmond Hill,NY
+253,MauriceNorton,Atwater,CA
+254,CristobalHutchinson,Lawndale,CA
+255,FlossieHolder,Massapequa Park,NY
+256,ErmaSalinas,Merrick,NY
+257,EarlStanley,Elmhurst,NY
+258,MaribelWilliam,Torrance,CA
+259,JohnathanVelazquez,Pleasanton,CA
+260,RodrickShelton,Canyon Country,CA
+261,FerneKline,Fullerton,CA
+262,RubinDecker,Buffalo,NY
+263,DorthaJarvis,Oceanside,NY
+264,MarielaHuffman,Garden City,NY
+265,MellisaFarley,Central Islip,NY
+266,MyungHooper,Elmont,NY
+267,AngelinaLloyd,Apple Valley,CA
+268,TrinityRiddle,Ballston Spa,NY
+269,BartonCrosby,Bellmore,NY
+270,ClaudioWise,Kingston,NY
+271,KatheleenMarks,Longview,TX
+272,DejaChaney,Jamaica,NY
+273,QueenieVance,Ozone Park,NY
+274,JoshShaw,Hopewell Junction,NY
+275,PinkieKirkland,San Angelo,TX
+276,LavetteWright,Ronkonkoma,NY
+277,MarkGarrett,Monroe,NY
+278,MyeshaBurgess,Campbell,CA
+279,JustinaLong,South El Monte,CA
+280,BrendaTate,San Angelo,TX
+281,RaynaPerry,Ozone Park,NY
+282,RandolphChase,San Lorenzo,CA
+283,JaimeeDay,Poughkeepsie,NY
+284,SusannBass,Commack,NY
+285,LeolaGould,Astoria,NY
+286,VirgilFrost,Levittown,NY
+287,MireillePuckett,Oxnard,CA
+288,KeturahMassey,Banning,CA
+289,CharmainWebster,Richardson,TX
+290,BarryBuckner,Centereach,NY
+291,BoyceBurks,Sunnyside,NY
+292,MontyFrost,Hempstead,NY
+293,TinyFrench,Plainview,NY
+294,ClementinaSargent,Rome,NY
+295,DannyKim,South Ozone Park,NY
+296,SophiaMcmillan,Uniondale,NY
+297,ChristiaCarson,Helotes,TX
+298,JennieMiddleton,Upland,CA
+299,JameRiggs,Bay Shore,NY
+300,RayfordSimon,Mountain View,CA
+301,AnnettGarrett,Scarsdale,NY
+302,HaydenCross,Apple Valley,CA
+303,RolandaLarsen,Woodhaven,NY
+304,JaymeZamora,Springfield Gardens,NY
+305,HopeCotton,Redondo Beach,CA
+306,VikkiErickson,Kingston,NY
+307,FransiscaNicholson,Glendora,CA
+308,MazieFernandez,Webster,NY
+309,AndersonMartin,Canandaigua,NY
+310,GilbertoParsons,Middle Village,NY
+311,ChariseBurt,Fresno,CA
+312,CameronCarroll,Longview,TX
+313,MelaniJarvis,Maspeth,NY
+314,JavierNichols,Rowlett,TX
+315,JustinaJenkins,Baldwin,NY
+316,HortenciaGraham,Euless,TX
+317,ChristiaWilkins,Woodside,NY
+318,ElizWhitney,Fullerton,CA
+319,JustinNewton,Apple Valley,CA
+320,AronWiggins,Oceanside,NY
+321,ChereHardin,Brooklyn,NY
+322,MeridethPreston,Poughkeepsie,NY
+323,JenifferSlater,Schenectady,NY
+324,LaureenPaul,Bellmore,NY
+325,BernaMoore,Bronx,NY
+326,ShielaCalderon,Rocklin,CA
+327,SharieAlvarez,New York,NY
+328,BettieGlover,Euless,TX
+329,MarilynFrank,Port Chester,NY
+330,ShebaKnapp,Woodside,NY
+331,AletaMack,Bay Shore,NY
+332,ReenaHiggins,Canyon Country,CA
+333,AmiMcmahon,Sunnyside,NY
+334,SomerJordan,Huntington Station,NY
+335,ScarletReed,Bronx,NY
+336,TrishaJohnson,Lancaster,NY
+337,MajorieWyatt,South Ozone Park,NY
+338,AbbeyPugh,Forest Hills,NY
+339,TamelaHarrell,Central Islip,NY
+340,YaniraBradshaw,Smithtown,NY
+341,DelanaScott,Mount Vernon,NY
+342,CassondraPruitt,Merrick,NY
+343,JesicaFields,Commack,NY
+344,HertaRollins,Mountain View,CA
+345,MiGray,Albany,NY
+346,JacalynBarnett,Maspeth,NY
+347,KaneshaHudson,Oakland,CA
+348,DarrenWitt,Coachella,CA
+349,MablePratt,Coachella,CA
+350,ChristoperMccall,Bay Shore,NY
+351,MargorieWynn,Monsey,NY
+352,JosefGreer,Jamaica,NY
+353,TisaWhitney,Monsey,NY
+354,TondaArmstrong,Sunnyside,NY
+355,ArvillaWeiss,Bay Shore,NY
+356,VashtiRosario,Bronx,NY
+357,SheriCole,San Jose,CA
+358,KandaceGiles,Wantagh,NY
+359,AngiePowers,Pomona,CA
+360,VanPeters,Houston,TX
+361,VirginaBerg,Valley Stream,NY
+362,OleviaNoel,Kingston,NY
+363,KaciGallegos,Ballston Spa,NY
+364,BevChang,Ithaca,NY
+365,RodgerRojas,Bayside,NY
+366,LavonneAnderson,Floral Park,NY
+367,BlancaHooper,Ozone Park,NY
+368,AlyshaPowers,Forest Hills,NY
+369,MarySingleton,Woodside,NY
+370,JinaCooper,Howard Beach,NY
+371,LoniDuncan,Rosedale,NY
+372,ColleneRoman,Wappingers Falls,NY
+373,MarietteTrevino,Utica,NY
+374,CandelariaCoffey,Merrick,NY
+375,YanTrevino,Uniondale,NY
+376,ElanorPatrick,Victoria,TX
+377,KlaraMosley,Port Chester,NY
+378,RosalbaO'neal,Mount Vernon,NY
+379,MinaCarrillo,Uniondale,NY
+380,AlesiaHorne,Selden,NY
+381,KristenAlvarez,Bronx,NY
+382,CollinWebster,Howard Beach,NY
+383,AshleePena,Whitestone,NY
+384,AimeeMerritt,Flushing,NY
+385,RochelleWard,Glendora,CA
+386,NelleBeck,Upland,CA
+387,KailaWalters,Elmhurst,NY
+388,AletaStone,Whitestone,NY
+389,LeifShort,San Angelo,TX
+390,LorriePollard,Ronkonkoma,NY
+391,VernitaBall,Los Banos,CA
+392,CyndiBush,Elmhurst,NY
+393,GertrudeTerry,Upland,CA
+394,VirgenClemons,South El Monte,CA
+395,FairyRobinson,Liverpool,NY
+396,LavernaHernandez,Niagara Falls,NY
+397,JeannieWilcox,Franklin Square,NY
+398,SuellenMercado,Sunnyside,NY
+399,BartHess,Kingston,NY
+400,AlfredoDodson,Depew,NY
+401,ShaundaBarnett,Longview,TX
+402,KerrieMorton,Pittsford,NY
+403,ElouiseFry,Canyon Country,CA
+404,AugustusSteele,Ballston Spa,NY
+405,GretaPage,Commack,NY
+406,KerrieO'neill,Shirley,NY
+407,DannetteGuerrero,San Pablo,CA
+408,EdraFitzgerald,Central Islip,NY
+409,JeromeBolton,Carmel,NY
+410,ConceptionSlater,Bellmore,NY
+411,OctaviaCase,New York,NY
+412,DexterRoberts,Sunnyside,NY
+413,GinetteEdwards,Baldwin,NY
+414,RomaineHaley,Ithaca,NY
+415,GwendolynMiller,Harlingen,TX
+416,LukeFuller,Hempstead,NY
+417,ZoraidaPatton,Huntington Station,NY
+418,GeorgeannaWebster,Oxnard,CA
+419,KrystinMarshall,Poughkeepsie,NY
+420,VinceSchneider,Merrick,NY
+421,IolaRasmussen,Monroe,NY
+422,ValerySaunders,Victoria,TX
+423,JohnaPowers,Deer Park,NY
+424,CharleenHurst,Utica,NY
+425,AugustinaJoyner,Mount Vernon,NY
+426,DaisyWard,Pomona,CA
+427,LatonyaDixon,Garland,TX
+428,HipolitoPadilla,New Rochelle,NY
+429,EmmettCasey,Valley Stream,NY
+430,KandiMcneil,Massapequa Park,NY
+431,LucianoMarsh,Bellmore,NY
+432,JuliusHolt,East Meadow,NY
+433,HollyNieves,Longview,TX
+434,DouglassLittle,Duarte,CA
+435,IzolaHobbs,Woodhaven,NY
+436,HoneyCamacho,Bayside,NY
+437,LaureenBarry,Orchard Park,NY
+438,KatharineHerrera,Queensbury,NY
+439,SunshineRosario,Jamaica,NY
+440,YevetteTodd,Ballston Spa,NY
+441,DortheaWalker,Port Washington,NY
+442,AlaneMunoz,Yonkers,NY
+443,AyanaKeith,Oxnard,CA
+444,CaridadCompton,San Lorenzo,CA
+445,EarlineBallard,Mount Vernon,NY
+446,NathanaelBradley,Amsterdam,NY
+447,ChasidyTran,Vista,CA
+448,JanellaBright,Rochester,NY
+449,JosieSchultz,Canyon Country,CA
+450,EllsworthMichael,Carmel,NY
+451,JennetteWooten,Rowlett,TX
+452,CassandraNichols,Hicksville,NY
+453,CourtneyWyatt,Garden City,NY
+454,TeresePalmer,Bay Shore,NY
+455,SheritaCherry,Liverpool,NY
+456,SerinaHensley,Jamaica,NY
+457,JeniFarley,Richmond Hill,NY
+458,EverettVega,Holbrook,NY
+459,LatoshaDalton,Bakersfield,CA
+460,RomeliaMyers,Garden City,NY
+461,EffieJenkins,Brentwood,NY
+462,EfrenOliver,Nanuet,NY
+463,JerleneRios,Plainview,NY
+464,BessMcbride,Garden City,NY
+465,BirdieKramer,Troy,NY
+466,CollenHayes,Smithtown,NY
+467,ClareNeal,Mahopac,NY
+468,JeanettHerman,Lindenhurst,NY
+469,MickiRutledge,Richmond Hill,NY
+470,LoiseWalker,Shirley,NY
+471,BurmaSummers,Freeport,NY
+472,MyronRuiz,Amityville,NY
+473,LashawnaRichardson,Baldwin,NY
+474,LavernOrr,Webster,NY
+475,AlecPeck,Victoria,TX
+476,ChristopherRichardson,Santa Cruz,CA
+477,ArmindaWeber,Bellmore,NY
+478,EmmettHahn,Freeport,NY
+479,GerthaMejia,Flushing,NY
+480,GarlandWeaver,Amsterdam,NY
+481,JaysonRutledge,Lake Jackson,TX
+482,NarcisaKnapp,Amarillo,TX
+483,GaylaSims,Lindenhurst,NY
+484,ChelseyBoyd,Euless,TX
+485,CatherineMiles,East Elmhurst,NY
+486,ValeriMarshall,East Meadow,NY
+487,GraceMadden,San Pablo,CA
+488,JoaquinHawkins,Anaheim,CA
+489,KirstieVazquez,Saratoga Springs,NY
+490,YuMcdonald,Ossining,NY
+491,CelestineJacobs,Massapequa,NY
+492,JustaThompson,Corona,NY
+493,LiseAlvarado,Hamburg,NY
+494,PearlFox,Uniondale,NY
+495,TravisGoodman,Los Banos,CA
+496,ShuMays,Astoria,NY
+497,EzraFowler,Nanuet,NY
+498,EddaYoung,North Tonawanda,NY
+499,LidiaAshley,Baldwinsville,NY
+500,MoiraLester,Jackson Heights,NY
+501,TonyHicks,Anaheim,CA
+502,MalindaBaxter,Whitestone,NY
+503,MarloJefferson,Niagara Falls,NY
+504,TianaHenderson,Franklin Square,NY
+505,WildaPetersen,Jamaica,NY
+506,IrvingPitts,Torrance,CA
+507,ShereePena,Staten Island,NY
+508,VanceTaylor,Lancaster,NY
+509,TerraPickett,Amsterdam,NY
+510,FaustinoDelacruz,South Richmond Hill,NY
+511,JulienneMoody,Fort Worth,TX
+512,HeeGreer,Selden,NY
+513,WhitneyCash,Hamburg,NY
+514,ClaritaCurry,Hollis,NY
+515,ReitaDickson,Scarsdale,NY
+516,RosaKinney,Brooklyn,NY
+517,BufordGilbert,Bellmore,NY
+518,HomerPowers,Palos Verdes Peninsula,CA
+519,RudolfGilliam,Palos Verdes Peninsula,CA
+520,AndreasHerman,Mount Vernon,NY
+521,MaxCharles,Glen Cove,NY
+522,TammeraFischer,Oakland,CA
+523,JoshuaRobertson,Patchogue,NY
+524,LarraineHorn,Utica,NY
+525,AndreasMayer,New Rochelle,NY
+526,LazaroMoran,Sugar Land,TX
+527,AftonJuarez,Coram,NY
+528,AngeleSchroeder,New City,NY
+529,EllenaClements,Santa Monica,CA
+530,SeleneAustin,Duarte,CA
+531,KimberelyBowen,Troy,NY
+532,MiaDelgado,Coachella,CA
+533,GarretClay,Corpus Christi,TX
+534,AlejandroHaney,Wantagh,NY
+535,IngeOlsen,Long Beach,NY
+536,ChristianeBradford,Orchard Park,NY
+537,CarterBentley,Carmel,NY
+538,SherieAyala,South El Monte,CA
+539,JamikaAcevedo,Ozone Park,NY
+540,SheryRandolph,Ontario,CA
+541,LanitaBurton,Coachella,CA
+542,TimothyByers,Ronkonkoma,NY
+543,JasminYoung,Helotes,TX
+544,CatarinaMendez,West Islip,NY
+545,TajuanaRollins,Oswego,NY
+546,ThadCastro,Brentwood,NY
+547,TenaHuber,Newburgh,NY
+548,DoriAlvarez,Kingston,NY
+549,ElmoArnold,Long Beach,NY
+550,FelicidadGolden,Lockport,NY
+551,JenineCrane,Fort Worth,TX
+552,LeaKey,Banning,CA
+553,RoryCooper,Rocklin,CA
+554,HildeNieves,Campbell,CA
+555,MarryBenjamin,Forney,TX
+556,VernellGoff,Monroe,NY
+557,ErleneCook,Mount Vernon,NY
+558,CarrollKelly,Monroe,NY
+559,BasiliaThornton,Brentwood,NY
+560,TriciaDaniels,Forney,TX
+561,KandaceHughes,San Lorenzo,CA
+562,AlejandroNorman,Upland,CA
+563,RodneyOdom,Richmond Hill,NY
+564,BettiePierce,Farmingdale,NY
+565,DagnyOwen,San Angelo,TX
+566,CinthiaPoole,Lake Jackson,TX
+567,SheilaTravis,Longview,TX
+568,ArceliaVinson,West Islip,NY
+569,LucasEstes,Santa Monica,CA
+570,MarissaSummers,Saint Albans,NY
+571,KaleyBlanchard,Palos Verdes Peninsula,CA
+572,WmPope,Auburn,NY
+573,RubyeMccall,Troy,NY
+574,AdrieneRivera,Encino,CA
+575,LaurenceChristian,Jamaica,NY
+576,ShirelyStanley,El Paso,TX
+577,DanilleMcfarland,Rocklin,CA
+578,SalenaDay,San Lorenzo,CA
+579,MatildaLarson,Harlingen,TX
+580,MellisaKim,Los Angeles,CA
+581,VondaBerger,Santa Clara,CA
+582,SoledadMoses,Jackson Heights,NY
+583,LashandraTurner,Long Beach,NY
+584,LynneAnderson,El Paso,TX
+585,ChasidyWebster,Rocklin,CA
+586,UlyssesGaines,Monsey,NY
+587,EunaLopez,Carmel,NY
+588,CherelleKey,Valley Stream,NY
+589,JeffryChurch,Pleasanton,CA
+590,CyndiDyer,Baldwin,NY
+591,DaniloHolmes,Hicksville,NY
+592,JoniLee,Centereach,NY
+593,AntonyAtkinson,Smithtown,NY
+594,DeanneParsons,Lindenhurst,NY
+595,FredericaRojas,Ithaca,NY
+596,EmeldaDickerson,Hamburg,NY
+597,RudolfMoran,Maspeth,NY
+598,BenitoHendrix,Depew,NY
+599,JonellRivas,Amarillo,TX
+600,JoiReeves,San Diego,CA
+601,LelandMcdowell,Encino,CA
+602,DelaineEstes,Amarillo,TX
+603,GenevieveJuarez,New Hyde Park,NY
+604,KyleeDickson,Amityville,NY
+605,RenitaHenry,New Rochelle,NY
+606,SarahKirkland,Wappingers Falls,NY
+607,PaulLester,Vista,CA
+608,TaishaVang,Shirley,NY
+609,ElianaReese,Woodhaven,NY
+610,LeonoreDorsey,Jackson Heights,NY
+611,AshleighFrank,Levittown,NY
+612,GabrielWagner,Ballston Spa,NY
+613,MargeneEaton,Wantagh,NY
+614,ToshiaCardenas,Amsterdam,NY
+615,JamikaBlanchard,Fresh Meadows,NY
+616,SheryAcosta,Saratoga Springs,NY
+617,JennaSaunders,Yorktown Heights,NY
+618,SkyePope,Richmond Hill,NY
+619,AnaPalmer,Anaheim,CA
+620,EricHardin,Jamaica,NY
+621,BasilBallard,San Lorenzo,CA
+622,GabrielPitts,Clifton Park,NY
+623,CaylaJohnson,Coram,NY
+624,SharikaColon,Long Beach,NY
+625,DonnettaHenson,Webster,NY
+626,LeighBurke,Schenectady,NY
+627,DelorisLarson,Duarte,CA
+628,EhtelCobb,Lockport,NY
+629,EvelinaByrd,Buffalo,NY
+630,ZulemaBrowning,Amsterdam,NY
+631,TressaWeiss,Ossining,NY
+632,YvetteRogers,Franklin Square,NY
+633,KiaraDeleon,Anaheim,CA
+634,TaylorCole,Carmel,NY
+635,MyrtieJames,Merrick,NY
+636,AshtonLott,Floral Park,NY
+637,KaraHiggins,Ossining,NY
+638,TomekaHiggins,Poughkeepsie,NY
+639,RonaldParsons,Maspeth,NY
+640,AllisonNolan,New City,NY
+641,DerrickMarks,Glendora,CA
+642,YangRoth,Webster,NY
+643,MelbaWilkinson,Floral Park,NY
+644,ValentinMclaughlin,Lindenhurst,NY
+645,LewisGarner,Brentwood,NY
+646,AnnHeath,South El Monte,CA
+647,JanelleMaldonado,Richmond Hill,NY
+648,CatriceHicks,San Pablo,CA
+649,EliContreras,Ronkonkoma,NY
+650,RitaBailey,Ossining,NY
+651,LaurePena,Wappingers Falls,NY
+652,TildaMelton,Troy,NY
+653,FlorencioDavenport,Jamestown,NY
+654,EunHarris,San Diego,CA
+655,MarylynBrowning,Scarsdale,NY
+656,RomanaBarnes,Floral Park,NY
+657,SamLester,Baldwin,NY
+658,NickiLarson,Monsey,NY
+659,AntonettaRocha,Port Chester,NY
+660,SharaPope,Ridgecrest,CA
+661,TrenaHudson,Monroe,NY
+662,LoraineSykes,Scarsdale,NY
+663,AlissaHood,New Windsor,NY
+664,AugustusSchmidt,Corona,NY
+665,StacieSims,Oakland,CA
+666,BrittniGreen,Floral Park,NY
+667,EtsukoGarrison,Richmond Hill,NY
+668,CalandraStanton,Lake Jackson,TX
+669,WillisRandolph,Harlingen,TX
+670,ShawndaGlover,Liverpool,NY
+671,JennetteBaker,Banning,CA
+672,ElmaMolina,New Rochelle,NY
+673,AdamHenderson,Los Banos,CA
+674,IraMoore,Saratoga Springs,NY
+675,KermitBowman,El Paso,TX
+676,GayleWilkinson,Lindenhurst,NY
+677,LaunaHull,Helotes,TX
+678,MyronJohns,Whitestone,NY
+679,TuanWolfe,West Babylon,NY
+680,MathildaPennington,New City,NY
+681,ReathaPerez,Holbrook,NY
+682,ArnitaThomas,Orchard Park,NY
+683,AmparoBurks,Merrick,NY
+684,JennyBell,Niagara Falls,NY
+685,LaverneCraft,Forest Hills,NY
+686,DarcelHarmon,Santa Clara,CA
+687,CeciliaCamacho,Desoto,TX
+688,PearlieCochran,Campbell,CA
+689,DeirdreRyan,Utica,NY
+690,YevetteElliott,Jackson Heights,NY
+691,LadawnDowns,Houston,TX
+692,DorotheaChang,Astoria,NY
+693,MerlinForeman,Hempstead,NY
+694,LanieDunn,North Tonawanda,NY
+695,ChristoperGould,Shirley,NY
+696,NorineHuffman,Encino,CA
+697,AlaneMccarty,San Diego,CA
+698,CharleenJoyner,Corona,NY
+699,ZellaFernandez,Rockville Centre,NY
+700,ColleneKnox,Corpus Christi,TX
+701,AlysiaNicholson,Oxnard,CA
+702,SharieWhitaker,Merrick,NY
+703,DianaCobb,Fullerton,CA
+704,MortonBarron,Bakersfield,CA
+705,CamilleHarvey,Huntington,NY
+706,LolitaO'neill,Massapequa Park,NY
+707,TereseBriggs,Woodside,NY
+708,MajorieGlover,Apple Valley,CA
+709,VinnieChan,Forest Hills,NY
+710,EzraSilva,New Windsor,NY
+711,JovitaBishop,Staten Island,NY
+712,KeciaOlsen,Santa Cruz,CA
+713,IlonaSpears,Port Jefferson Station,NY
+714,SenaidaThompson,Bronx,NY
+715,LaraeCarney,Sunnyside,NY
+716,SebrinaHart,Coram,NY
+717,KristoferCraig,Plainview,NY
+718,LucianaMcgee,Selden,NY
+719,NickiFry,Endicott,NY
+720,DevinShaffer,Rochester,NY
+721,ErlindaOsborne,West Islip,NY
+722,CamilaCarroll,San Antonio,TX
+723,VickiWiggins,Wappingers Falls,NY
+724,LoisSteele,Ossining,NY
+725,CarolaMcpherson,Rego Park,NY
+726,RochellCantrell,Port Jefferson Station,NY
+727,KashaSullivan,Scarsdale,NY
+728,VivaDawson,Orchard Park,NY
+729,HueDalton,Apple Valley,CA
+730,AndriaRivers,Amarillo,TX
+731,HilarySavage,Oxnard,CA
+732,LavonaAustin,Utica,NY
+733,DoreathaFord,Huntington,NY
+734,AlinaMcleod,Patchogue,NY
+735,AideFranco,Atwater,CA
+736,GennyHensley,Redondo Beach,CA
+737,MelitaDominguez,Auburn,NY
+738,FannieJenkins,Oxnard,CA
+739,BobbiBanks,Bayside,NY
+740,GwennMelton,Centereach,NY
+741,LaciCastro,Saint Albans,NY
+742,EvelinaManning,Mount Vernon,NY
+743,TaniaSwanson,Longview,TX
+744,LaurelSchultz,Mount Vernon,NY
+745,CarolyneConley,Floral Park,NY
+746,EldridgeGreer,Central Islip,NY
+747,MargretBarnett,Forney,TX
+748,OlivaBlackwell,Elmhurst,NY
+749,OraliaFarley,Upland,CA
+750,RomaineSalazar,Monsey,NY
+751,HermilaMckay,Coachella,CA
+752,LloydMiranda,Encino,CA
+753,MandiGibbs,East Elmhurst,NY
+754,HueMay,Valley Stream,NY
+755,TomikaWilder,New Hyde Park,NY
+756,GraigRoth,West Babylon,NY
+757,LamarGreer,Levittown,NY
+758,RaymondeGarcia,Queensbury,NY
+759,CiraDowns,Oakland,CA
+760,MarisaChambers,Amityville,NY
+761,RodHatfield,Ronkonkoma,NY
+762,QuyenHouston,Central Islip,NY
+763,HanSchneider,Elmhurst,NY
+764,TerrellMathis,Selden,NY
+765,SpringHayes,Ossining,NY
+766,LeciaHancock,Schenectady,NY
+767,TwanaArnold,Anaheim,CA
+768,YvoneYates,San Pablo,CA
+769,AgathaMelton,Springfield Gardens,NY
+770,LavondaStephenson,Bay Shore,NY
+771,AgnesSims,Buffalo,NY
+772,LatriciaLindsey,Yorktown Heights,NY
+773,YolandoWade,Massapequa,NY
+774,NenitaMooney,Lawndale,CA
+775,KermitHyde,Patchogue,NY
+776,AngeliqueMerrill,South El Monte,CA
+777,IldaRoberson,Kingston,NY
+778,CorrinneGarrison,Victoria,TX
+779,MajorMerrill,Astoria,NY
+780,OuidaGregory,Merrick,NY
+781,TajuanaRiddle,Bayside,NY
+782,RickiBullock,Woodside,NY
+783,CelestineKent,Lancaster,NY
+784,DebbraJacobson,Ballston Spa,NY
+785,KandisMills,Hamburg,NY
+786,WallaceLane,South Richmond Hill,NY
+787,MalisaMitchell,Mount Vernon,NY
+788,LilliamNolan,Copperas Cove,TX
+789,TadGardner,Niagara Falls,NY
+790,PetronilaGallegos,Howard Beach,NY
+791,YunNelson,Ballston Spa,NY
+792,EdgarHorn,West Babylon,NY
+793,ChantayMaynard,Elmhurst,NY
+794,DonetteMccarthy,Redondo Beach,CA
+795,MariamMiranda,Franklin Square,NY
+796,RosalieCoffey,Upland,CA
+797,CatheyLamb,Bayside,NY
+798,AlyseJacobson,Massapequa Park,NY
+799,IndiaBarron,Huntington,NY
+800,CrisDunn,Pittsford,NY
+801,OpheliaRodgers,Hopewell Junction,NY
+802,BarrettSanders,Longview,TX
+803,BernardinaCooper,Whitestone,NY
+804,DouglasRichards,Valley Stream,NY
+805,PhillisFowler,Clifton Park,NY
+806,ReyesMerritt,Staten Island,NY
+807,NathalieKnowles,West Islip,NY
+808,VallieDixon,Rowlett,TX
+809,ElnoraSimpson,Bellmore,NY
+810,IvelisseNixon,Houston,TX
+811,ShantiJohnston,Staten Island,NY
+812,MarthaBurgess,Woodhaven,NY
+813,NevilleMcclain,West Hempstead,NY
+814,GhislaineCompton,Lindenhurst,NY
+815,LeannaManning,Hicksville,NY
+816,MarshallJohnson,Vista,CA
+817,ZeldaPratt,Lancaster,NY
+818,JoelWynn,San Diego,CA
+819,YahairaRobertson,Endicott,NY
+820,SandyMills,Schenectady,NY
+821,CassidyClark,Astoria,NY
+822,KristyWatkins,Howard Beach,NY
+823,TinaBush,Maspeth,NY
+824,VeronikaRollins,Webster,NY
+825,KristelByrd,Hicksville,NY
+826,ShayStephenson,Smithtown,NY
+827,GeorgePickett,Sunnyside,NY
+828,RenatoMorton,Mount Vernon,NY
+829,MarcyRodriguez,Lockport,NY
+830,EdmundGaines,Copperas Cove,TX
+831,LoryBerg,Oswego,NY
+832,PamalaFowler,Ballston Spa,NY
+833,LeoneEmerson,Whitestone,NY
+834,BrainSkinner,Euless,TX
+835,RoseanneMaynard,Euless,TX
+836,CorinnaAdams,Rosedale,NY
+837,KellyeCampbell,Baldwinsville,NY
+838,ErnaSloan,Howard Beach,NY
+839,CarolannRussell,Glen Cove,NY
+840,GilbertCalhoun,East Elmhurst,NY
+841,ManieMaxwell,Ronkonkoma,NY
+842,GiselleRobles,San Angelo,TX
+843,TessieFarmer,Plattsburgh,NY
+844,FelicaMunoz,South Ozone Park,NY
+845,KathyrnBush,Bronx,NY
+846,SylvesterChan,Rocklin,CA
+847,LizetteEllison,Port Washington,NY
+848,ErnestinaSkinner,Elmhurst,NY
+849,PhyllisHill,Syosset,NY
+850,StephanieBrowning,Rowlett,TX
+851,ArlenaBuckner,New Hyde Park,NY
+852,LezlieThompson,Freeport,NY
+853,BrittneyRojas,Kingston,NY
+854,PhylisAdkins,New York,NY
+855,LeanStark,Upland,CA
+856,LaraGuy,Ronkonkoma,NY
+857,IngaKoch,New Windsor,NY
+858,KlaraKim,Rome,NY
+859,JulianneShannon,Sugar Land,TX
+860,LoniMullen,South Ozone Park,NY
+861,OlympiaFigueroa,Hopewell Junction,NY
+862,MelliePuckett,Fresh Meadows,NY
+863,ShontaPreston,Utica,NY
+864,LoreSykes,Buffalo,NY
+865,JuliaJoyner,Astoria,NY
+866,LynwoodJackson,Longview,TX
+867,RosalvaHamilton,Campbell,CA
+868,DomingoCasey,San Jose,CA
+869,RodrigoDurham,Richmond Hill,NY
+870,DwainCarlson,Smithtown,NY
+871,ErlindaHumphrey,New Windsor,NY
+872,SilasTate,Corpus Christi,TX
+873,PatienceClayton,Niagara Falls,NY
+874,MilaGood,Plattsburgh,NY
+875,TaneshaSawyer,Rosedale,NY
+876,OnitaMacdonald,Glen Cove,NY
+877,JanineManning,Howard Beach,NY
+878,MelodieMelton,Smithtown,NY
+879,EthelynRay,Garden City,NY
+880,PhebeTurner,Sunnyside,NY
+881,ChloePatel,Santa Monica,CA
+882,HildaHarvey,Ballston Spa,NY
+883,GilberteDuke,El Paso,TX
+884,WillianHardin,Oswego,NY
+885,JannaHayden,Longview,TX
+886,LetishaMay,North Tonawanda,NY
+887,GraigCannon,Syosset,NY
+888,ColeenNavarro,Webster,NY
+889,LucillaWilliams,San Carlos,CA
+890,RosanneGeorge,Ossining,NY
+891,AshlieParrish,Monsey,NY
+892,AlissaCraft,Ossining,NY
+893,LettyCobb,Depew,NY
+894,NathanielRichard,New Windsor,NY
+895,ElainaKey,Plainview,NY
+896,StefaniGamble,New City,NY
+897,BettyannAcosta,Lancaster,NY
+898,CrystaVelez,Houston,TX
+899,CarisaCarpenter,Victoria,TX
+900,JuleDavenport,San Carlos,CA
+901,LonnaFranks,Ontario,CA
+902,EleaseDejesus,Oswego,NY
+903,MairaLong,Hicksville,NY
+904,JanaThomas,San Jose,CA
+905,HaeRamirez,Baldwinsville,NY
+906,ErikLeblanc,Sugar Land,TX
+907,DainaSampson,Longview,TX
+908,DelmarWise,Lockport,NY
+909,AlitaSalinas,Uniondale,NY
+910,ElenoreWilliam,Mcallen,TX
+911,NikitaRoy,Pittsford,NY
+912,InocenciaKey,Massapequa Park,NY
+913,LilianaKerr,Desoto,TX
+914,HortenciaO'neil,Rockville Centre,NY
+915,BerylBennett,Sacramento,CA
+916,AlishiaElliott,Mount Vernon,NY
+917,VerniaMadden,Troy,NY
+918,KristelBullock,Smithtown,NY
+919,RuthanneHoover,Torrance,CA
+920,JamesRobles,North Tonawanda,NY
+921,EvelinVargas,Webster,NY
+922,ElviaCardenas,Massapequa,NY
+923,RandeePitts,Canyon Country,CA
+924,LeaIrwin,New Windsor,NY
+925,BryceMonroe,Kingston,NY
+926,KatinaMcintosh,Bakersfield,CA
+927,GuillermoHart,New York,NY
+928,JoannBarber,Santa Monica,CA
+929,ThurmanEllis,Pleasanton,CA
+930,DelanaWagner,Clifton Park,NY
+931,PorterBass,San Angelo,TX
+932,YvonneBean,Wappingers Falls,NY
+933,LurlineRivers,Howard Beach,NY
+934,OcieSlater,Hamburg,NY
+935,GenevieMiles,Monroe,NY
+936,SherilynWilcox,Ossining,NY
+937,AidaKoch,West Hempstead,NY
+938,EmoryO'connor,Rochester,NY
+939,MaximinaHutchinson,Corpus Christi,TX
+940,MarinaHinton,Encino,CA
+941,DanyellDickerson,Central Islip,NY
+942,DavisLong,Lancaster,NY
+943,LynnMcmahon,Scarsdale,NY
+944,TonjaHenderson,Scarsdale,NY
+945,KrissyOchoa,Port Washington,NY
+946,AngellaBridges,Pittsford,NY
+947,AngeleCastro,Palos Verdes Peninsula,CA
+948,SiobhanLang,Levittown,NY
+949,VenessaFrost,Scarsdale,NY
+950,VernaSolis,Rochester,NY
+951,SteveBender,Scarsdale,NY
+952,AileenMarquez,Torrance,CA
+953,KattieStevenson,Helotes,TX
+954,HassanNash,Hicksville,NY
+955,DelfinaGilliam,West Babylon,NY
+956,VenusHewitt,Farmingdale,NY
+957,StephenVega,Anaheim,CA
+958,CieraKoch,Euless,TX
+959,ChristelBarber,Sacramento,CA
+960,ArlineLawson,Hempstead,NY
+961,IvaWilcox,Kingston,NY
+962,MapleGriffin,Copperas Cove,TX
+963,AnishaLang,Rome,NY
+964,BrentCalderon,Corpus Christi,TX
+965,MargitOsborn,Plainview,NY
+966,NovellaPatel,Glen Cove,NY
+967,LauretteHebert,Canandaigua,NY
+968,JonnaBrown,Mahopac,NY
+969,JennellSolis,Rochester,NY
+970,RuthHorton,Hollis,NY
+971,SamualWarner,Brentwood,NY
+972,DamianMills,Long Beach,NY
+973,MargarettaClayton,Ridgecrest,CA
+974,MarcellBarrett,Astoria,NY
+975,AnnisSanchez,Los Angeles,CA
+976,AyannaCherry,Smithtown,NY
+977,BartonCox,Amityville,NY
+978,DianaReyes,Bronx,NY
+979,IngeborgEllison,Ithaca,NY
+980,CarterBooth,Port Chester,NY
+981,ChristelCardenas,Long Beach,NY
+982,OrvalHunter,San Angelo,TX
+983,MargueriteBerger,Fullerton,CA
+984,IvetteWarren,Franklin Square,NY
+985,MilagrosWeber,Harlingen,TX
+986,MarcelLindsay,Ossining,NY
+987,LouisPowell,Staten Island,NY
+988,VandaHolmes,Syosset,NY
+989,LoreenByers,South Ozone Park,NY
+990,CasimiraChapman,Monroe,NY
+991,BrigidaLarson,Canyon Country,CA
+992,ChereAlston,Patchogue,NY
+993,GiovannaJefferson,Ridgecrest,CA
+994,DemarcusReese,Yorktown Heights,NY
+995,AminaSalazar,Canandaigua,NY
+996,SerafinaClemons,Shirley,NY
+997,TrinidadMcclain,Baldwin,NY
+998,HeatherChaney,Jamestown,NY
+999,LatoyaJohns,Ballston Spa,NY
+1000,ShilohReeves,West Babylon,NY
+1001,LeeRoman,Brentwood,NY
+1002,CamiWilliamson,Massapequa,NY
+1003,SharellRoss,Vista,CA
+1004,JeraldBlackwell,East Elmhurst,NY
+1005,RuthanneFranco,Astoria,NY
+1006,MarjoryLeonard,Apple Valley,CA
+1007,JimmyRussell,Howard Beach,NY
+1008,BerneicePollard,Forney,TX
+1009,DeangeloCooley,Rosedale,NY
+1010,KatiaHenry,Bethpage,NY
+1011,SebrinaGross,Garland,TX
+1012,JosephineDale,Baldwinsville,NY
+1013,AlmaPeck,Corona,NY
+1014,LingNewman,South Richmond Hill,NY
+1015,NichelleRosario,Garden City,NY
+1016,ShennaBenton,New York,NY
+1017,PhilipBryan,Oakland,CA
+1018,CaritaSalinas,Maspeth,NY
+1019,JanieHerrera,Elmhurst,NY
+1020,LorraineMarks,San Carlos,CA
+1021,NicolasCarlson,Saint Albans,NY
+1022,HyeMercer,Mahopac,NY
+1023,AdenaBlake,Ballston Spa,NY
+1024,ColemanBoyd,El Paso,TX
+1025,DaphineWillis,Farmingdale,NY
+1026,JenineDawson,Endicott,NY
+1027,ShanitaWiley,Saint Albans,NY
+1028,ShannaBonner,Canandaigua,NY
+1029,PingQuinn,Rowlett,TX
+1030,SaranMoses,Brooklyn,NY
+1031,TonjaBean,Fairport,NY
+1032,VernonKnowles,Huntington Station,NY
+1033,JeannetteSkinner,Forest Hills,NY
+1034,RicoSalas,Centereach,NY
+1035,TangelaHurley,Campbell,CA
+1036,RandeeLester,Centereach,NY
+1037,AshantiHammond,Nanuet,NY
+1038,GarryJuarez,Forest Hills,NY
+1039,BeeBaker,Liverpool,NY
+1040,ShantaeHammond,Victoria,TX
+1041,BettyeEspinoza,Oswego,NY
+1042,LarissaHays,Elmont,NY
+1043,DianeJones,Fresh Meadows,NY
+1044,ZeniaBruce,Rosedale,NY
+1045,PasqualeHogan,Vista,CA
+1046,DaneMcdaniel,Canandaigua,NY
+1047,JamaalBaker,Elmhurst,NY
+1048,JiBurt,Apple Valley,CA
+1049,MarcelinoMcbride,Clifton Park,NY
+1050,RozellaFitzgerald,Shirley,NY
+1051,TonishaFowler,Huntington Station,NY
+1052,ZoraFord,Sacramento,CA
+1053,PartheniaFigueroa,Mahopac,NY
+1054,ArielleLevine,Garland,TX
+1055,HildegardeChristensen,Maspeth,NY
+1056,RebbeccaEspinoza,Mount Vernon,NY
+1057,ConchitaBoone,Mount Vernon,NY
+1058,AishaWoods,Webster,NY
+1059,SeasonHarvey,East Northport,NY
+1060,TommieCooley,Lancaster,NY
+1061,AlannaBarry,Euless,TX
+1062,JerriGuthrie,Carmel,NY
+1063,TammyAustin,Lake Jackson,TX
+1064,PatsyRusso,Rowlett,TX
+1065,DesireeBranch,San Lorenzo,CA
+1066,RaeannDuncan,Anaheim,CA
+1067,LilliaGillespie,Rego Park,NY
+1068,DorisKaufman,Duarte,CA
+1069,RodolfoBuck,Shirley,NY
+1070,OlimpiaMays,Oakland Gardens,NY
+1071,ShemekaLyons,Pomona,CA
+1072,MaryaliceHenry,Richardson,TX
+1073,LeeanneCross,Bayside,NY
+1074,LanelleGuerra,Floral Park,NY
+1075,DannHuff,Huntington Station,NY
+1076,SheriseMercer,Vista,CA
+1077,HeatherPerry,Sunnyside,NY
+1078,TheresiaBarron,Forest Hills,NY
+1079,CindiEllis,Floral Park,NY
+1080,MirellaDuffy,Longview,TX
+1081,CarsonMacias,New Rochelle,NY
+1082,DivinaMadden,Long Beach,NY
+1083,CherAlston,Wantagh,NY
+1084,RegineOdom,Franklin Square,NY
+1085,AdamThornton,Central Islip,NY
+1086,CoriSchwartz,Jamaica,NY
+1087,WillowGardner,Pleasanton,CA
+1088,JaneHenderson,Apple Valley,CA
+1089,ChereMcfadden,Orchard Park,NY
+1090,IraErickson,Port Jefferson Station,NY
+1091,RisaGallagher,Rocklin,CA
+1092,LaviniaCotton,East Northport,NY
+1093,AlejandrinaHodges,Deer Park,NY
+1094,KeithaBlack,Lindenhurst,NY
+1095,CoreneSwanson,Rego Park,NY
+1096,TondaWebb,Baldwinsville,NY
+1097,CollenDennis,San Pablo,CA
+1098,TreasaDickerson,Rockville Centre,NY
+1099,JewellReyes,Jackson Heights,NY
+1100,PennyAcevedo,Ballston Spa,NY
+1101,LouiseFlowers,Depew,NY
+1102,HenriettaWagner,Fort Worth,TX
+1103,ArdeliaCooley,Canyon Country,CA
+1104,KhalilahRobertson,Spring Valley,NY
+1105,ArmandoBlack,Richardson,TX
+1106,JerriHenry,Spring Valley,NY
+1107,LyndaNewman,Saratoga Springs,NY
+1108,BaoWade,Desoto,TX
+1109,GussieHarding,Deer Park,NY
+1110,ShirelyCantrell,West Hempstead,NY
+1111,CarolineJenkins,Richardson,TX
+1112,HollisRasmussen,Massapequa,NY
+1113,KendraHarrington,Jamestown,NY
+1114,DouglassBlankenship,Albany,NY
+1115,LinaMeadows,Glen Cove,NY
+1116,PatriaHarper,Astoria,NY
+1117,JeffreyHill,Rosedale,NY
+1118,JaDillard,Canyon Country,CA
+1119,ToraDunlap,Monsey,NY
+1120,KaroleAlvarez,East Northport,NY
+1121,ShastaCombs,Yorktown Heights,NY
+1122,CicelyDeleon,Massapequa Park,NY
+1123,RaphaelO'neil,Fairport,NY
+1124,HubertReilly,Amityville,NY
+1125,CalebEngland,Pleasanton,CA
+1126,ElmiraLevy,Spring Valley,NY
+1127,WaldoHart,Queensbury,NY
+1128,BeaKane,Mahopac,NY
+1129,GilbertoSanders,Woodside,NY
+1130,BennyBender,Elmont,NY
+1131,DesmondRose,Mount Vernon,NY
+1132,PartheniaHolman,Ithaca,NY
+1133,DungKing,West Islip,NY
+1134,SherrilAlvarado,Desoto,TX
+1135,AlisiaAlbert,Garland,TX
+1136,KallieBest,Rochester,NY
+1137,DottieRoberts,Port Washington,NY
+1138,HubertStone,Ridgecrest,CA
+1139,GabriellaJones,Mount Vernon,NY
+1140,PenneyHall,Liverpool,NY
+1141,MallieOsborn,Newburgh,NY
+1142,BrittenySchroeder,Pittsford,NY
+1143,SommerHopkins,Tonawanda,NY
+1144,JewelSparks,Oakland Gardens,NY
+1145,DeandreaVega,Yonkers,NY
+1146,CharlsieCarson,Saint Albans,NY
+1147,KandaceAyers,Santa Monica,CA
+1148,LenoreValdez,Spring Valley,NY
+1149,DrucillaGilliam,Santa Clara,CA
+1150,KeturahReid,Corpus Christi,TX
+1151,HerminiaReyes,Centereach,NY
+1152,TuyetRosa,South El Monte,CA
+1153,AraVazquez,San Carlos,CA
+1154,BarryAlbert,Auburn,NY
+1155,VerdellJoyner,Far Rockaway,NY
+1156,HanWade,Howard Beach,NY
+1157,AntonBarton,Buffalo,NY
+1158,VitoPickett,Canandaigua,NY
+1159,CharleneNorris,Syosset,NY
+1160,EfrenWhitfield,Euless,TX
+1161,SantaLarson,Valley Stream,NY
+1162,CarmelinaSellers,Ithaca,NY
+1163,CarmelaHays,Lawndale,CA
+1164,PatrinaTanner,Scarsdale,NY
+1165,RikkiMorrow,Fort Worth,TX
+1166,JunitaReese,Bay Shore,NY
+1167,RyanCarter,Nanuet,NY
+1168,AlmetaBenjamin,Sunnyside,NY
+1169,BeatrisJoyner,Spring Valley,NY
+1170,MechelleChan,Richmond Hill,NY
+1171,EarleanPena,Rome,NY
+1172,KatherinClark,Pittsford,NY
+1173,ChanelMay,Garden City,NY
+1174,AaronKnapp,Yonkers,NY
+1175,SindyAnderson,Pomona,CA
+1176,ShereeBlanchard,Queensbury,NY
+1177,CharlesettaSoto,Poughkeepsie,NY
+1178,WendieNash,Oxnard,CA
+1179,VernettaBanks,Brooklyn,NY
+1180,MyrtleGardner,Farmingdale,NY
+1181,AgustinaLawrence,Brooklyn,NY
+1182,TrinidadChapman,Ronkonkoma,NY
+1183,KimClark,Merrick,NY
+1184,AnnabelleHebert,Spring Valley,NY
+1185,CorineStuart,Clifton Park,NY
+1186,KieshaBond,San Carlos,CA
+1187,KenyettaMason,Flushing,NY
+1188,MarceneCurtis,Yonkers,NY
+1189,SheilaGoodman,Uniondale,NY
+1190,RomeoSteele,Port Jefferson Station,NY
+1191,TamFisher,Rochester,NY
+1192,GenaOwens,Desoto,TX
+1193,PhebeSoto,South Ozone Park,NY
+1194,LeticiaSnyder,Pittsford,NY
+1195,ChantellBridges,Buffalo,NY
+1196,IleanaHolt,Patchogue,NY
+1197,NakishaClay,Port Washington,NY
+1198,CheryllSnyder,Brooklyn,NY
+1199,ConsuelaCollier,North Tonawanda,NY
+1200,AubreyDurham,Port Washington,NY
+1201,NitaGuy,Port Chester,NY
+1202,CarminaEmerson,Banning,CA
+1203,GeorgeannRojas,Desoto,TX
+1204,LeslieHiggins,Saratoga Springs,NY
+1205,EmmalineHuber,Mount Vernon,NY
+1206,MercyBrown,Hollis,NY
+1207,JenellCrosby,Brentwood,NY
+1208,LeilaBarr,Carmel,NY
+1209,DeandreaCox,Huntington,NY
+1210,ShawnnaFrank,Woodside,NY
+1211,BrentonWhitaker,Niagara Falls,NY
+1212,JaquelineCummings,Huntington Station,NY
+1213,YangGiles,San Angelo,TX
+1214,BrigidSharp,Santa Clara,CA
+1215,KarlStephens,Rockville Centre,NY
+1216,ElvinaGates,Pleasanton,CA
+1217,CarlieTerrell,Yonkers,NY
+1218,DonovanCantrell,Oakland,CA
+1219,AldenAtkinson,Shirley,NY
+1220,CarissaCross,Huntington Station,NY
+1221,JoyUnderwood,Apple Valley,CA
+1222,GeraldineO'donnell,Flushing,NY
+1223,BronwynVargas,New Windsor,NY
+1224,AbramCopeland,Harlingen,TX
+1225,MellisaGriffin,Los Banos,CA
+1226,QianaJackson,East Northport,NY
+1227,MagaliDixon,Troy,NY
+1228,ZulemaClemons,Oakland,CA
+1229,CarinaLynch,Wappingers Falls,NY
+1230,JesusBurch,Desoto,TX
+1231,SeleneVega,Campbell,CA
+1232,JongGuthrie,Bethpage,NY
+1233,LiseHebert,Vista,CA
+1234,JoshuaBerg,Ossining,NY
+1235,GeorginaGonzales,Endicott,NY
+1236,RudolphVelez,Mount Vernon,NY
+1237,LukeKramer,Bethpage,NY
+1238,EdgarQuinn,Harlingen,TX
+1239,TaraMaynard,Lindenhurst,NY
+1240,BellaPerez,Duarte,CA
+1241,NathanielDavidson,Rome,NY
+1242,ChaunceyDonaldson,Franklin Square,NY
+1243,HeideReed,Floral Park,NY
+1244,TrangHardin,Depew,NY
+1245,GabrielaWarren,Long Beach,NY
+1246,DaleRasmussen,Kingston,NY
+1247,TammieCherry,Massapequa,NY
+1248,BethanyHerring,Port Jefferson Station,NY
+1249,BarbraDickerson,Ridgecrest,CA
+1250,NeomaDaugherty,Mount Vernon,NY
+1251,NanetteRoman,Glendora,CA
+1252,AdrieneRollins,Plainview,NY
+1253,SusannahFields,Far Rockaway,NY
+1254,DungReid,Canyon Country,CA
+1255,BenStone,Ithaca,NY
+1256,NubiaAnderson,Ronkonkoma,NY
+1257,RosamariaMeyer,Webster,NY
+1258,ToddWaters,Bay Shore,NY
+1259,KimberyNieves,San Carlos,CA
+1260,PhuongWolf,Schenectady,NY
+1261,AdelaidaHancock,San Pablo,CA
+1262,BrianneHays,San Pablo,CA
+1263,RufinaChandler,New Hyde Park,NY
+1264,DevinVelazquez,Brentwood,NY
+1265,BonitaMarshall,Endicott,NY
+1266,MyrlGay,Garland,TX
+1267,EarlineGordon,Ronkonkoma,NY
+1268,SungChambers,Kingston,NY
+1269,GustavoGamble,Port Washington,NY
+1270,CieraWebb,Orchard Park,NY
+1271,RoyChan,Pomona,CA
+1272,HoustonVasquez,Fullerton,CA
+1273,ChereeHale,Oswego,NY
+1274,OdetteMoses,Newburgh,NY
+1275,LenitaBonner,Los Banos,CA
+1276,ShonaMcmillan,Apple Valley,CA
+1277,PiedadIrwin,Coram,NY
+1278,LoanGraham,Jackson Heights,NY
+1279,StanSaunders,Canandaigua,NY
+1280,JackelineColon,Wappingers Falls,NY
+1281,MarlenDawson,Woodside,NY
+1282,AlexisMack,New City,NY
+1283,MicaBarry,Hopewell Junction,NY
+1284,ShaniceSpears,Brooklyn,NY
+1285,GarthHuff,Glendora,CA
+1286,DionePratt,Pleasanton,CA
+1287,VictorPittman,Astoria,NY
+1288,AllieConley,Lawndale,CA
+1289,ShanelleAnderson,Bethpage,NY
+1290,MinnieCompton,South Richmond Hill,NY
+1291,ShilohBates,Monsey,NY
+1292,LakenyaOliver,San Lorenzo,CA
+1293,SallyKinney,Floral Park,NY
+1294,EdithDavenport,Ontario,CA
+1295,AllineBeasley,North Tonawanda,NY
+1296,TravisWhitley,Saint Albans,NY
+1297,VanessaWest,New Rochelle,NY
+1298,TrudyRiddle,Schenectady,NY
+1299,ShaunaEdwards,Yorktown Heights,NY
+1300,ClorindaDonovan,Jamestown,NY
+1301,RavenCurtis,Lawndale,CA
+1302,VerdaGilbert,East Northport,NY
+1303,RenayAtkins,Woodside,NY
+1304,TamaBerg,Hollis,NY
+1305,DaliaCarson,Rochester,NY
+1306,AmericaSwanson,Webster,NY
+1307,CindaRocha,Los Banos,CA
+1308,SheaHowell,South El Monte,CA
+1309,KimberliCline,Centereach,NY
+1310,EmanuelMckee,Schenectady,NY
+1311,WhitleyCannon,Coram,NY
+1312,TereasaBird,Ronkonkoma,NY
+1313,DanteGrimes,Duarte,CA
+1314,JoeannGarrison,Ontario,CA
+1315,OmegaJohnston,Canyon Country,CA
+1316,ConradMueller,Massapequa,NY
+1317,GladyWells,Syosset,NY
+1318,TishaPetty,San Antonio,TX
+1319,ClarisSantiago,Newburgh,NY
+1320,ObduliaBarber,Newburgh,NY
+1321,ShantelGregory,West Islip,NY
+1322,AiForbes,Franklin Square,NY
+1323,EbonyCotton,West Babylon,NY
+1324,ArlaEllis,Utica,NY
+1325,MagdalenaSherman,Oswego,NY
+1326,TarraGuerrero,Auburn,NY
+1327,ConsuelaRomero,Monroe,NY
+1328,CindieFranklin,Lawndale,CA
+1329,SharynBrewer,Hollis,NY
+1330,KarrenStevenson,San Carlos,CA
+1331,DivinaReeves,Newburgh,NY
+1332,NovellaRoss,Glendora,CA
+1333,OmegaHuff,Santa Monica,CA
+1334,AshleighFinch,Newburgh,NY
+1335,CorinaLynch,Rosedale,NY
+1336,JoeMelton,New Windsor,NY
+1337,BernettaSummers,Longview,TX
+1338,InezSnider,Ronkonkoma,NY
+1339,NeidaKing,Oceanside,NY
+1340,TonaVelasquez,Whitestone,NY
+1341,RozanneReyes,Garden City,NY
+1342,LekishaPope,Freeport,NY
+1343,JamaRodriquez,Upland,CA
+1344,EloisaTucker,Howard Beach,NY
+1345,ArieHunter,Flushing,NY
+1346,SanoraWebster,Los Angeles,CA
+1347,KateBarber,Saratoga Springs,NY
+1348,YvoneGuerrero,Merrick,NY
+1349,KamiRios,Encino,CA
+1350,AnnettRush,Rosedale,NY
+1351,CarmanHardy,Jamestown,NY
+1352,DorotheaMiranda,Upland,CA
+1353,AgathaDaniels,South El Monte,CA
+1354,AlexandriaZamora,Schenectady,NY
+1355,ThadGilliam,Levittown,NY
+1356,IngerJennings,Patchogue,NY
+1357,KarrenLamb,Fresno,CA
+1358,NobleGlover,Orchard Park,NY
+1359,OctaviaDonaldson,Levittown,NY
+1360,LatashiaTravis,Upland,CA
+1361,DestinyGoodman,Westbury,NY
+1362,ChristianaGross,Orchard Park,NY
+1363,NestorHaynes,Houston,TX
+1364,GriselMaynard,Ballston Spa,NY
+1365,ShennaEspinoza,Queensbury,NY
+1366,TrenaRogers,Campbell,CA
+1367,LucileManning,Campbell,CA
+1368,VeroniqueFulton,Ballston Spa,NY
+1369,StarrSchneider,Shirley,NY
+1370,RonaRojas,San Jose,CA
+1371,PandoraEstes,New Hyde Park,NY
+1372,RennaWilliams,South Ozone Park,NY
+1373,LanoraRobbins,West Babylon,NY
+1374,JulianeDillard,Glendora,CA
+1375,CarlenaSalinas,Jamaica,NY
+1376,KimberleyReynolds,Port Washington,NY
+1377,JohanaJacobson,Rochester,NY
+1378,EnochRosario,Fresno,CA
+1379,DorineThornton,Sunnyside,NY
+1380,ElizLynch,Uniondale,NY
+1381,MercedezBrooks,Duarte,CA
+1382,WynonaDouglas,Harlingen,TX
+1383,DesireMcgowan,Bakersfield,CA
+1384,ElmoSweeney,San Carlos,CA
+1385,KentonHughes,Canandaigua,NY
+1386,CesarWilkins,San Diego,CA
+1387,PhyliciaStout,Canandaigua,NY
+1388,NanetteHarris,East Meadow,NY
+1389,UlrikeChan,Port Chester,NY
+1390,GenovevaLloyd,Bayside,NY
+1391,SherylChase,Floral Park,NY
+1392,TristaLambert,Fairport,NY
+1393,VivianDeleon,Jamaica,NY
+1394,GennyFields,Amityville,NY
+1395,EliseoKnight,Woodhaven,NY
+1396,DelmaBailey,Anaheim,CA
+1397,DewayneHerring,Webster,NY
+1398,NevadaHood,Hopewell Junction,NY
+1399,AngelikaPerry,Canandaigua,NY
+1400,ShaylaHart,Woodhaven,NY
+1401,WillettaMurphy,East Elmhurst,NY
+1402,SandeeAlvarado,Depew,NY
+1403,MilaMoody,Troy,NY
+1404,LoyceConway,Central Islip,NY
+1405,ThanhFigueroa,Mount Vernon,NY
+1406,FarrahOrr,New Hyde Park,NY
+1407,HughCraft,Centereach,NY
+1408,EleanorMendez,Port Chester,NY
+1409,LamarBush,Buffalo,NY
+1410,LurleneFinch,Yonkers,NY
+1411,ShandaStevenson,Freeport,NY
+1412,AdrienHunter,Rego Park,NY
+1413,OpheliaDecker,New Windsor,NY
+1414,SonjaWalls,Queensbury,NY
+1415,HaroldO'connor,Santa Cruz,CA
+1416,MirandaKennedy,Astoria,NY
+1417,JasperCastro,Forney,TX
+1418,PenniBest,Anaheim,CA
+1419,LurleneCotton,Pleasanton,CA
+1420,KelseyNoble,Mount Vernon,NY
+1421,EdrisBarrett,Plattsburgh,NY
+1422,TempieJacobson,Smithtown,NY
+1423,DollieCervantes,Fort Worth,TX
+1424,LashundaCole,Monsey,NY
+1425,JustinaJenkins,Shirley,NY
+1426,LondaGould,Corpus Christi,TX
+1427,MikelWilkerson,Atwater,CA
+1428,CarolaJohns,Santa Cruz,CA
+1429,LorrieJustice,Pomona,CA
+1430,TaynaWade,Bakersfield,CA
+1431,MarkBenton,East Elmhurst,NY
+1432,ZonaCameron,East Northport,NY
+1433,NicolaKnight,Scarsdale,NY
+1434,ElanaMiles,Liverpool,NY
+1435,MerrieFowler,Scarsdale,NY
+1436,MacieAyers,Bellmore,NY
+1437,SonWarner,Rockville Centre,NY
+1438,LeeDunn,San Jose,CA
+1439,FlorrieLittle,New Rochelle,NY
+1440,ErnestRollins,Oakland Gardens,NY
+1441,JamaalMorrison,Staten Island,NY
+1442,CassieCline,Brooklyn,NY
+1443,LezlieLamb,Central Islip,NY
+1444,IvetteEstes,Canandaigua,NY
+1445,EsterAcevedo,San Lorenzo,CA
